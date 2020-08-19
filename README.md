@@ -98,14 +98,19 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 
 ## Imagenes de la aplicación
 
-<img src="/img/home.png" width="200px">
-
+<img src="/img/home.png" width="300px">
+<img src="/img/historial.png" width="300px">
+<img src="/img/share.png" width="300px">
+<img src="/img/map.png" width="300px">
+<img src="/img/qr.png" width="300px">
+<img src="/img/qr3.png" width="300px">
+<!-- 
 ![Alt](/img/home.png "Inicio"){:height="36px" width="36px"}.
 ![Alt](/img/historial.png "Historial")
 ![Alt](/img/share.png "Compartir")
 ![Alt](/img/map.png "Mapa 3D")
 ![Alt](/img/qr.png "Lector QR")
-![Alt](/img/qr3.png "Lector QR")
+![Alt](/img/qr3.png "Lector QR") -->
 
 
 

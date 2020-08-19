@@ -98,7 +98,7 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 
 ## Imagenes de la aplicación
 
-![Alt](/img/home.png | width=100 "Inicio")
+![Alt](/img/home.png "Inicio") | width=100
 ![Alt](/img/historial.png "Historial")
 ![Alt](/img/share.png "Compartir")
 ![Alt](/img/map.png "Mapa 3D")

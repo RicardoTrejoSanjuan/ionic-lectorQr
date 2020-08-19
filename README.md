@@ -19,7 +19,16 @@ QRs
 - NodeJs 10+
 - NPM 6+
 
-## Instalación:
+## Instalación:ç
+
+Construir de forma local
+
+```bash
+ionic cordova add platform android
+
+ionic cordova run android
+```
+
 
 ``` bash
 npm install -g ionic
@@ -89,7 +98,7 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 
 ## Imagenes de la aplicación
 
-![Alt](/img/home.png "Inicio")
+![Alt](/img/home.png | width=100 "Inicio")
 ![Alt](/img/historial.png "Historial")
 ![Alt](/img/share.png "Compartir")
 ![Alt](/img/map.png "Mapa 3D")
